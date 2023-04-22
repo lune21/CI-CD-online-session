@@ -24,6 +24,6 @@ pipeline {
 
   }
   environment {
-    registry = 'lucy21/test'
+    registry = 'lucy21/ci-cd-test'
   }
 }
